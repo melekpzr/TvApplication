@@ -1,0 +1,57 @@
+C:\Users\user\Desktop\TV\TV\bin\Debug\TV.exe.config
+C:\Users\user\Desktop\TV\TV\bin\Debug\TV.exe
+C:\Users\user\Desktop\TV\TV\bin\Debug\TV.pdb
+C:\Users\user\Desktop\TV\TV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\TV\TV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\TV\TV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\TV\TV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form1.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form2.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form3.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form4.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Properties.Resources.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.exe
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.pdb
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form5.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.Form6.resources
+C:\Users\user\Desktop\TV\TV\obj\Debug\TV.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\bin\Debug\TV.exe.config
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.exe
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.pdb
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\bin\Debug\TV.exe
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\bin\Debug\TV.pdb
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form1.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form2.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form3.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form4.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form5.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Form6.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.Properties.Resources.resources
+C:\Users\user\Desktop\melek pazarbasi c#\TV\TV\obj\Debug\TV.csproj.GenerateResource.Cache
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\bin\Debug\TV.exe.config
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.csproj.ResolveComReference.cache
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.exe
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.pdb
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\bin\Debug\TV.exe
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\bin\Debug\TV.pdb
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form1.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form2.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form3.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form4.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form5.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Form6.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.Properties.Resources.resources
+C:\Users\user\Documents\C#\Canli TV melek pazarbasi c#\TV\TV\obj\Debug\TV.csproj.GenerateResource.Cache
